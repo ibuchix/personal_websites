@@ -1,16 +1,16 @@
 {
-    "name": "personal_websites",
-    "short_name": "personal_websites",
+    "name": "chiokee",
+    "short_name": "chiokee",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "chiokee official website.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "icons/favicon.ico",
             "sizes": "192x192",
             "type": "image/png"
         },
